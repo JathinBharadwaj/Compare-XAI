@@ -1,6 +1,5 @@
-# CompareXAI
 
-## A Simple Library for Comparing Explainable AI Methods
+## CompareXAI:A Simple Library for Comparing Explainable AI Methods
 
 CompareXAI is a project for comparing different Explainable AI
 (XAI) methods using machine learning models.
